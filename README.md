@@ -1,3 +1,1 @@
-# ThRead
-# ReactTest
 # productgrid
