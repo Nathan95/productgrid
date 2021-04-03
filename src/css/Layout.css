@@ -1,0 +1,10 @@
+.layout {
+  padding: 1rem;
+}
+
+.innerWrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 2rem;
+}
