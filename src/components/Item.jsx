@@ -72,4 +72,8 @@ Item.propTypes = {
   stock: PropTypes.number.isRequired
 };
 
+Item.defaultProps = {
+  name: ""
+}
+
 export default Item;
